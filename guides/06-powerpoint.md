@@ -1,4 +1,4 @@
-# 06 — Crea Presentaciones PowerPoint con Claude
+# 09 — Crea Presentaciones PowerPoint con Claude
 
 ## ¿Qué es?
 
