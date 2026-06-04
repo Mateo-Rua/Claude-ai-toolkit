@@ -1,4 +1,4 @@
-# 08 — Proyectos en Claude: Automatiza Tareas Repetitivas
+# 11 — Proyectos en Claude: Automatiza Tareas Repetitivas
 
 ## ¿Qué es?
 
