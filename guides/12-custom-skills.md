@@ -1,4 +1,4 @@
-# 12 — Cómo Crear Skills Personalizadas en Claude
+# 15 — Cómo Crear Skills Personalizadas en Claude
 
 ## ¿Qué es?
 
