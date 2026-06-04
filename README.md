@@ -85,6 +85,4 @@ claude-ai-toolkit/
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
 
----
 
-> Hecho con Claude AI por la comunidad hispanohablante de IA.
