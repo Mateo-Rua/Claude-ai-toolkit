@@ -1,4 +1,4 @@
-# 15 — Qué es Claude y Qué lo Hace Diferente
+# 01 — Qué es Claude y Qué lo Hace Diferente
 
 ## ¿Qué es?
 
