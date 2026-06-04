@@ -1,4 +1,4 @@
-# 16 — Cómo Elegir entre Haiku, Sonnet y Opus
+# 02 — Cómo Elegir entre Haiku, Sonnet y Opus
 
 ## ¿Qué Son?
 
