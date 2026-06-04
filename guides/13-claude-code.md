@@ -1,4 +1,4 @@
-# 13 — Cómo Funciona Claude Code como Agente
+# 16 — Cómo Funciona Claude Code como Agente
 
 ## ¿Qué es?
 
