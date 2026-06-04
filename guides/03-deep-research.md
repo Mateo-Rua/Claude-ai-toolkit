@@ -1,4 +1,4 @@
-# 03 — Deep Research en Claude
+# 06 — Deep Research en Claude
 
 ## ¿Qué es?
 
