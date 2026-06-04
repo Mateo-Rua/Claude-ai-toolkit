@@ -1,4 +1,4 @@
-# 10 — Memoria de Claude: Cómo Funciona y Cuándo Activarla
+# 13 — Memoria de Claude: Cómo Funciona y Cuándo Activarla
 
 ## ¿Qué es?
 
