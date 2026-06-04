@@ -20,20 +20,23 @@ Cada sección incluye: qué es, cómo funciona, para qué sirve, ejemplos reales
 
 | # | Guía | Descripción rápida |
 |---|------|--------------------|
-| 01 | [Búsqueda Web](guides/01-web-search.md) | Acceso a información en tiempo real |
-| 02 | [Pensamiento Extendido](guides/02-extended-thinking.md) | Razonamiento paso a paso para problemas complejos |
-| 03 | [Deep Research](guides/03-deep-research.md) | Investigación autónoma y multi-fuente |
-| 04 | [Análisis de Documentos e Imágenes](guides/04-document-analysis.md) | Procesamiento de PDFs, imágenes y archivos |
-| 05 | [Excel + K-means](guides/05-excel-kmeans.md) | Análisis de datos y clustering directamente en Claude |
-| 06 | [Presentaciones PowerPoint](guides/06-powerpoint.md) | Generación automática de slides profesionales |
-| 07 | [Artefactos](guides/07-artifacts.md) | Creación de apps web, visualizaciones y componentes |
-| 08 | [Proyectos](guides/08-projects.md) | Automatización de tareas repetitivas con contexto |
-| 09 | [Estilos de Escritura](guides/09-writing-styles.md) | Personalización del tono y formato de respuestas |
-| 10 | [Memoria](guides/10-memory.md) | Contexto persistente entre conversaciones |
-| 11 | [Conectores MCP](guides/11-mcp-connectors.md) | Integración con apps externas (Slack, GitHub, etc.) |
-| 12 | [Skills Personalizadas](guides/12-custom-skills.md) | Creación de habilidades reutilizables |
-| 13 | [Claude Code](guides/13-claude-code.md) | Agente de código desde la terminal |
-| 14 | [Claude Cowork](guides/14-cowork.md) | Agente personal para gestión de archivos y tareas |
+| 01 | [Búsqueda Web](guides/001-que-es-claude.md) | Acceso a información en tiempo real |
+| 02 | [Búsqueda Web](guides/002-haiku-sonnet-opus.md) | Acceso a información en tiempo real |
+| 03 | [Búsqueda Web](guides/003-prompts-efectivos.md) | Acceso a información en tiempo real |
+| 04 | [Búsqueda Web](guides/01-web-search.md) | Acceso a información en tiempo real |
+| 05 | [Pensamiento Extendido](guides/02-extended-thinking.md) | Razonamiento paso a paso para problemas complejos |
+| 06 | [Deep Research](guides/03-deep-research.md) | Investigación autónoma y multi-fuente |
+| 07 | [Análisis de Documentos e Imágenes](guides/04-document-analysis.md) | Procesamiento de PDFs, imágenes y archivos |
+| 08 | [Excel + K-means](guides/05-excel-kmeans.md) | Análisis de datos y clustering directamente en Claude |
+| 09 | [Presentaciones PowerPoint](guides/06-powerpoint.md) | Generación automática de slides profesionales |
+| 10 | [Artefactos](guides/07-artifacts.md) | Creación de apps web, visualizaciones y componentes |
+| 11 | [Proyectos](guides/08-projects.md) | Automatización de tareas repetitivas con contexto |
+| 12 | [Estilos de Escritura](guides/09-writing-styles.md) | Personalización del tono y formato de respuestas |
+| 13 | [Memoria](guides/10-memory.md) | Contexto persistente entre conversaciones |
+| 14 | [Conectores MCP](guides/11-mcp-connectors.md) | Integración con apps externas (Slack, GitHub, etc.) |
+| 15 | [Skills Personalizadas](guides/12-custom-skills.md) | Creación de habilidades reutilizables |
+| 16 | [Claude Code](guides/13-claude-code.md) | Agente de código desde la terminal |
+| 17 | [Claude Cowork](guides/14-cowork.md) | Agente personal para gestión de archivos y tareas |
 
 ---
 
