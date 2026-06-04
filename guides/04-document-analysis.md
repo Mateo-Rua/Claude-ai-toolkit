@@ -1,4 +1,4 @@
-# 04 — Análisis de Documentos e Imágenes con Claude
+# 07 — Análisis de Documentos e Imágenes con Claude
 
 ## ¿Qué es?
 
