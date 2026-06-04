@@ -1,4 +1,4 @@
-# 09 — Estilos de Escritura Personalizados en Claude
+# 12 — Estilos de Escritura Personalizados en Claude
 
 ## ¿Qué es?
 
