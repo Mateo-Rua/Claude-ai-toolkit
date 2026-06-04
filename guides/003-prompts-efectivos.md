@@ -1,4 +1,4 @@
-# 17 — Cómo Armar Prompts Efectivos en Claude
+# 03 — Cómo Armar Prompts Efectivos en Claude
 
 ## ¿Qué es un Prompt?
 
