@@ -1,4 +1,4 @@
-# 02 — Pensamiento Extendido de Claude
+# 05 — Pensamiento Extendido de Claude
 
 ## ¿Qué es?
 
