@@ -1,4 +1,4 @@
-# 07 — Artefactos de Claude: Crea Apps Web con IA
+# 10 — Artefactos de Claude: Crea Apps Web con IA
 
 ## ¿Qué es?
 
