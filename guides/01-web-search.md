@@ -1,4 +1,4 @@
-# 01 — Búsqueda Web en Claude
+# 04 — Búsqueda Web en Claude
 
 ## ¿Qué es?
 
