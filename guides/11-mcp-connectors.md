@@ -1,4 +1,4 @@
-# 11 — Conectores MCP: Integra Claude con tus Aplicaciones
+# 14 — Conectores MCP: Integra Claude con tus Aplicaciones
 
 ## ¿Qué es?
 
