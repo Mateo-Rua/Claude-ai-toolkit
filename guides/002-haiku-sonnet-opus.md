@@ -1,5 +1,7 @@
 # 02 — Cómo Elegir entre Haiku, Sonnet y Opus
 
+⚠️ Nota importante: La información de esta guía refleja los modelos disponibles a junio de 2026 (Haiku 4.5, Sonnet 4.6 y Opus 4.7). Anthropic sigue un ciclo activo de desarrollo — nuevas versiones con capacidades mejoradas, mayor eficiencia y herramientas adicionales se lanzan periódicamente. Los nombres Haiku, Sonnet y Opus representan los tres niveles del sistema (económico, balanceado y premium), pero los números de versión y las especificaciones seguirán evolucionando. Consulta siempre la documentación oficial de Anthropic para confirmar los modelos vigentes al momento de tu lectura.
+
 ## ¿Qué Son?
 
 Anthropic organiza sus modelos de Claude en **tres niveles** (tiers), cada uno optimizado para un punto diferente en el espectro velocidad-inteligencia-costo:
@@ -109,5 +111,6 @@ En Claude Code y la API, existe "smart model switching" que rutea automáticamen
 - **Pipeline mixto**: en un pipeline de ML, Haiku puede hacer feature extraction, Sonnet puede generar y evaluar modelos, y Opus puede revisar la arquitectura final. Cada etapa usa el modelo que maximiza valor por dólar.
 
 ---
+
 
 [← Qué es Claude](15-que-es-claude.md) | [Siguiente: Prompts Efectivos →](17-prompts-efectivos.md)
