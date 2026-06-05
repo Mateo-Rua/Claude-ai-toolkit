@@ -113,4 +113,4 @@ En Claude Code y la API, existe "smart model switching" que rutea automáticamen
 ---
 
 
-[← Qué es Claude](15-que-es-claude.md) | [Siguiente: Prompts Efectivos →](17-prompts-efectivos.md)
+[← Qué es Claude](001-que-es-claude.md) | [Siguiente: Prompts Efectivos →](003-prompts-efectivos.md)
