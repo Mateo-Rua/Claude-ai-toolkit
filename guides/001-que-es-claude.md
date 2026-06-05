@@ -2,7 +2,7 @@
 
 ## ¿Qué es?
 
-Claude es un asistente de inteligencia artificial creado por **Anthropic**, una empresa fundada en 2021 por Dario y Daniela Amodei (ex-investigadores de OpenAI). Claude es un modelo de lenguaje grande (LLM) capaz de razonar, escribir, programar, analizar datos, procesar imágenes y documentos, y ejecutar tareas complejas de forma autónoma. Está disponible a través de una interfaz web (claude.ai), apps móviles, una API para desarrolladores, y herramientas como Claude Code y Cowork.
+Claude es un asistente de inteligencia artificial creado por **Anthropic**, una empresa fundada en 2021 por Dario y Daniela Amodei (ex-investigadores de OpenAI). Claude es un modelo de lenguaje grande (LLM) capaz de razonar, escribir, programar, analizar datos, procesar imágenes, documentos y ejecutar tareas complejas de forma autónoma. Está disponible a través de una interfaz web (claude.ai), apps móviles, una API para desarrolladores, y herramientas como Claude Code y Cowork.
 
 ## ¿Qué lo Hace Diferente?
 
