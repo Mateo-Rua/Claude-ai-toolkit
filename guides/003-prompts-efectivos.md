@@ -195,4 +195,4 @@ RESTRICCIONES:
 
 ---
 
-[← Haiku, Sonnet y Opus](16-haiku-sonnet-opus.md) | [Volver al índice →](../README.md)
+[← Haiku, Sonnet y Opus](002-haiku-sonnet-opus.md) | [Volver al índice →](01-web-search.md)
