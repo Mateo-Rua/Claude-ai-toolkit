@@ -10,7 +10,7 @@
 
 ## ¿Qué es este repositorio?
 
-Un recurso centralizado en español que documenta, explica y demuestra las capacidades de **Claude AI** (Anthropic) con enfoque práctico para profesionales de datos e inteligencia artificial.
+Un recurso centralizado en español que documenta, explica y demuestra las capacidades de **Claude AI** (Anthropic) con enfoque práctico para profesionales en analisis de datos, ciencia de datos e inteligencia artificial.
 
 Cada sección incluye: qué es, cómo funciona, para qué sirve, ejemplos reales y la ventaja competitiva que aporta.
 
@@ -20,9 +20,9 @@ Cada sección incluye: qué es, cómo funciona, para qué sirve, ejemplos reales
 
 | # | Guía | Descripción rápida |
 |---|------|--------------------|
-| 01 | [Qué es Claude?](guides/001-que-es-claude.md) | Acceso a información en tiempo real |
-| 02 | [Sus modelos](guides/002-haiku-sonnet-opus.md) | Acceso a información en tiempo real |
-| 03 | [Prompts Efectivos](guides/003-prompts-efectivos.md) | Acceso a información en tiempo real |
+| 01 | [Qué es Claude?](guides/001-que-es-claude.md) | Introduccion | 
+| 02 | [Sus modelos](guides/002-haiku-sonnet-opus.md) | Modelos actuales |
+| 03 | [Prompts Efectivos](guides/003-prompts-efectivos.md) | Estructutra |
 | 04 | [Búsqueda Web](guides/01-web-search.md) | Acceso a información en tiempo real |
 | 05 | [Pensamiento Extendido](guides/02-extended-thinking.md) | Razonamiento paso a paso para problemas complejos |
 | 06 | [Deep Research](guides/03-deep-research.md) | Investigación autónoma y multi-fuente |
