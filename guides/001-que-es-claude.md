@@ -53,4 +53,4 @@ Claude está diseñado para profesionales que necesitan un asistente que razone 
 
 ---
 
-[← Volver al índice](../README.md) | [Siguiente: Haiku, Sonnet y Opus →](16-haiku-sonnet-opus.md)
+[← Volver al índice](../README.md) | [Siguiente: Haiku, Sonnet y Opus →](002-haiku-sonnet-opus.md)
