@@ -12,7 +12,12 @@
 
 Un recurso centralizado en español que documenta, explica y demuestra las capacidades de **Claude AI** (Anthropic) con enfoque práctico para profesionales en analisis de datos, ciencia de datos e inteligencia artificial.
 
-Cada sección incluye: qué es, cómo funciona, para qué sirve, ejemplos reales y la ventaja competitiva que aporta.
+Cada sección incluye: 
+- Qué es
+- Cómo funciona
+- Para qué sirve
+- Ejemplos reales 
+- La ventaja competitiva que aporta.
 
 ---
 
